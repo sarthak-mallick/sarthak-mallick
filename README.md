@@ -1,4 +1,4 @@
-# Hi, I'm Sarthak 👋
+# Sarthak Mallick
 
 📍 **Boston, MA** | 🔧 **Backend Engineer** | 🤖 **Exploring AI Tooling**
 
@@ -13,33 +13,70 @@
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/sarthak-mallick)
 [![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://github.com/sarthak-mallick)
 
-> Software engineer with 4 years of experience building distributed systems and cloud-native microservices. Currently pursuing my MS at Northeastern, diving deep into event-driven architectures and AI-assisted development.
+> Software engineer with 4 years of experience building distributed systems and cloud-native microservices. I care about designing systems that are reliable under load, easy to reason about, and actually solve user problems. Currently pursuing my MS at Northeastern, going deeper on event-driven architectures and AI-assisted development.
 
 ## Currently
 
-- 🎓 MS in Computer Software Engineering @ **Northeastern University**
+- 🎓 MS in Computer Software Engineering @ **Northeastern University** (Focus: Distributed Systems, Cloud Computing)
 - 🔨 Building distributed systems with Go, Kafka, and Kubernetes
 - 🤖 Integrating AI tools (Claude, Codex) into my development workflow
 - 📚 Previously: Technical co-lead @ **SAP Labs**, shipping enterprise software at scale
 
+## What I've Built
+
+At **SAP Labs** (2020–2024), I worked on cloud-native enterprise supply chain software:
+
+- **Event-Driven Architecture** — Designed AMQP-based event mesh handling 10K+ async events daily with guaranteed delivery, retry mechanisms, and correlation ID tracing
+- **Change Data Capture Framework** — Built a system to track field-level changes and trigger configurable outbound events to external systems based on property mappings
+- **High-Throughput APIs** — Developed multi-tenant Node.js microservices with OData RESTful APIs processing 100K+ daily operations
+- **Performance Optimization** — Redesigned legacy SQL queries with batching, reducing database calls by 80%
+- **Observability** — Instrumented Elasticsearch + Kibana logging with distributed request tracing across services
+- **CI/CD** — Set up Jenkins pipelines with containerization, automated testing, and deployment triggers
+
+Also led a 12-member team, conducted 15+ interviews, and ran workshops for 40+ developers on cloud migration.
+
 ## Featured Projects
 
-### 🚀 [Distributed Real-Time Task Queue](https://github.com/sarthak-mallick/Distributed-Task-Queue)
-Asynchronous job execution system built with **Go** and **React**. Features Kafka-based ingestion, Redis status caching, RabbitMQ request-reply with correlation IDs, GraphQL + WebSocket subscriptions for real-time updates, and Dockerized Kubernetes deployment.
-
 ### ☁️ [Cloud Infrastructure & DevOps](https://github.com/sarthak-mallick/Cloud-Infrastructure-DevOps)
-Production-grade AWS infrastructure provisioned with **Terraform**. Includes VPC networking, load balancing, Route 53 DNS, auto-scaling with CloudWatch metrics, and CI/CD pipeline via GitHub Actions with zero-downtime rolling deployments. Achieved 99.9% uptime.
+Production-grade AWS infrastructure provisioned entirely with **Terraform**.
+- VPC networking, load balancer, Route 53 DNS, custom domain with SSL/TLS
+- Least-privilege IAM policies, encryption at rest and in transit, security groups
+- CI/CD via GitHub Actions + Packer for AMI creation
+- Automated test suites, gated promotions, rolling deployments (zero-downtime)
+- CloudWatch agents, StatsD metrics, dashboards with health checks and CPU-based auto-scaling
+- Achieved **99.9% uptime** through proactive monitoring and automated recovery
 
+### 🚀 [Distributed Real-Time Task Queue](https://github.com/sarthak-mallick/Distributed-Task-Queue)
+Asynchronous job execution system built with **Go** and **React**.
+- Contract-first data plane: Kafka events, Redis status model, MongoDB result schema, RabbitMQ request-reply with correlation IDs
+- GraphQL + WebSocket subscriptions for typed, no-polling real-time updates
+- gRPC communication between API and workers
+- Hardened reliability: retry/backoff, reconnect handling, graceful shutdown, job_id/trace_id observability
+- Dockerized Kubernetes deployment scaffolding
+- 
 ### 📋 [Project Management System](https://github.com/sarthak-mallick/Project-Management)
-Full-stack JIRA-inspired application using **Java Spring Boot**, Hibernate ORM, and MySQL. Features real-time UI updates with AJAX, authentication, session management, and SQL injection prevention.
+Full-stack JIRA-inspired application using **Java Spring Boot** MVC.
+- Hibernate ORM with MySQL, deployed on Apache Tomcat
+- Real-time UI updates with JSP frontend and AJAX
+- Security: authentication, server-side validation, SQL injection prevention via parameterized queries
+- Session management with interceptor-based access control
+- Post-Redirect-Get pattern to prevent duplicate form submissions
 
 ## Background
 
-- **4 years** building cloud-native SaaS microservices at SAP Labs
-- Led a **12-member team** delivering enterprise supply chain solutions
+- **4 years** at SAP Labs building cloud-native SaaS microservices
+- Led a **12-member team** as technical co-lead within a 150-member org
 - Designed event-driven systems handling **10K+ async events daily**
 - Built APIs processing **100K+ operations daily**
-- **IIT Bombay** CS grad
+- **MS** @ Northeastern University (Distributed Systems, Cloud Computing, Enterprise Software Design)
+- **BTech in CS** @ IIT Bombay
+
+## Other Projects
+
+- **Reversi Game Solver** — Java AI using Monte Carlo Tree Search with configurable depth and strategic heuristics
+- **Buy-Sell-Auction App** — Full-stack Android app with Flutter/Dart frontend, Java servlet backend, PostgreSQL
+- **Custom C Compiler** — Lexer (Lex), parser (Yacc), AST, control flow graph, symbol table, MIPS assembly codegen
+- **ML Algorithms** — K-means clustering, ridge/lasso regression, bagging/boosting, MDP value iteration (Python/NumPy)
 
 ## Connect
 
