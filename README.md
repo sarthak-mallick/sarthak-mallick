@@ -1,6 +1,6 @@
 # Sarthak Mallick
 
-📍 **Boston, MA** | 🔧 **Backend Engineer** | **Distributed Systems, Cloud Computing, Enterprise Software Design** | 🤖 **Exploring AI Tooling**
+🔧 **Backend Engineer** | **Distributed Systems, Cloud Computing, Enterprise Software Design** | 🤖 **Exploring AI Tooling**
 
 **Programming** &nbsp; [![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/sarthak-mallick) [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/sarthak-mallick) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/sarthak-mallick) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/sarthak-mallick) [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/sarthak-mallick) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/sarthak-mallick) [![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/sarthak-mallick)
 
