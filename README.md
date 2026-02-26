@@ -1,6 +1,6 @@
 # Sarthak Mallick
 
-📍 **Boston, MA** | 🔧 **Backend Engineer** | 🤖 **Exploring AI Tooling**
+📍 **Boston, MA** | 🔧 **Backend Engineer** | **Distributed Systems, Cloud Computing, Enterprise Software Design** | 🤖 **Exploring AI Tooling**
 
 **Programming** &nbsp; [![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/sarthak-mallick) [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/sarthak-mallick) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/sarthak-mallick) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/sarthak-mallick) [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/sarthak-mallick) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/sarthak-mallick) [![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/sarthak-mallick)
 
@@ -21,13 +21,6 @@
 | ☁️ **[Cloud Infrastructure & DevOps](https://github.com/sarthak-mallick/Cloud-Infrastructure-DevOps)** <br><br> Production-grade AWS infrastructure with 99.9% uptime, zero-downtime deployments, and comprehensive observability <br><br> ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Packer](https://img.shields.io/badge/-Packer-02A8EF?style=flat-square&logo=packer&logoColor=white) ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | 🚀 **[Distributed Real-Time Task Queue](https://github.com/sarthak-mallick/Distributed-Task-Queue)** <br><br> Asynchronous job execution with real-time progress tracking, contract-first data plane, and hardened worker reliability <br><br> ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
 | 📋 **[Project Management System](https://github.com/sarthak-mallick/Project-Management)** <br><br> Full-stack JIRA-inspired app with real-time updates, authentication, and SQL injection prevention <br><br> ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black) | 🚂 **[Commuter Reservation Database](https://github.com/sarthak-mallick/train-reservation)** <br><br> 3NF normalized schema with PL/SQL stored procedures for booking workflows, waitlist management, and ACID transactions <br><br> ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-336791?style=flat-square&logo=oracle&logoColor=white) |
 
-## Currently
-
-- 🎓 MS in Computer Software Engineering @ **Northeastern University** (Focus: Distributed Systems, Cloud Computing)
-- 🔨 Building distributed systems with Go, Kafka, and Kubernetes
-- 🤖 Integrating AI tools (Claude, Codex) into my development workflow
-- 📚 Previously: Technical co-lead @ **SAP Labs**, shipping enterprise software at scale
-
 ## What I've Built
 
 At **SAP Labs** (2020–2024), I worked on cloud-native enterprise supply chain software:
@@ -40,15 +33,6 @@ At **SAP Labs** (2020–2024), I worked on cloud-native enterprise supply chain 
 - **CI/CD** — Set up Jenkins pipelines with containerization, automated testing, and deployment triggers
 
 Also led a 12-member team, conducted 15+ interviews, and ran workshops for 40+ developers on cloud migration.
-
-## Background
-
-- **4 years** at SAP Labs building cloud-native SaaS microservices
-- Led a **12-member team** as technical co-lead within a 150-member org
-- Designed event-driven systems handling **10K+ async events daily**
-- Built APIs processing **100K+ operations daily**
-- **MS** @ Northeastern University (Distributed Systems, Cloud Computing, Enterprise Software Design)
-- **BTech in CS** @ IIT Bombay
 
 ## Other Projects
 
