@@ -25,14 +25,14 @@
 
 At **SAP Labs** (2020–2024), I worked on cloud-native enterprise supply chain software:
 
-- **Event-Driven Architecture** — Designed AMQP-based event mesh handling 10K+ async events daily with guaranteed delivery, retry mechanisms, and correlation ID tracing
-- **Change Data Capture Framework** — Built a system to track field-level changes and trigger configurable outbound events to external systems based on property mappings
-- **High-Throughput APIs** — Developed multi-tenant Node.js microservices with OData RESTful APIs processing 100K+ daily operations
-- **Performance Optimization** — Redesigned legacy SQL queries with batching, reducing database calls by 80%
+- **Event-Driven Architecture** — Engineered AMQP-based message broker handling 50K+ async events daily with guaranteed delivery, retry mechanisms, and correlation ID tracing
+- **Change Data Capture Framework** — Built a system to track field-level mutations and trigger 50K+ downstream event notifications daily to external systems
+- **High-Throughput APIs** — Developed multi-tenant Node.js microservices with OData RESTful APIs processing 1M+ daily operations
+- **Performance Optimization** — Reduced response latency by 85% by batching queries and refactoring data access layer to consolidate entity fetches
 - **Observability** — Instrumented Elasticsearch + Kibana logging with distributed request tracing across services
 - **CI/CD** — Set up Jenkins pipelines with containerization, automated testing, and deployment triggers
 
-Also led a 12-member team, conducted 15+ interviews, and ran workshops for 40+ developers on cloud migration.
+Also led a 12-member team, delivered 5 major and 15+ minor releases, conducted 15+ interviews, and delivered 4 week-long workshops for 40+ developers.
 
 ## Other Projects
 
